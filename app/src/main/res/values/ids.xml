@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="spinnerbranchView" type="id" />
+    <item name="spinneryearView" type="id" />
+    <item name="labelF" type="id" />
+    <item name="label" type="id" />
+</resources>
